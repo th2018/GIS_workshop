@@ -1,77 +1,173 @@
-collection_no,Genus,lng,lat,n_occs,early_interval,late_interval
-13352,Brontosaurus,-105.916199,42.152302,1,Kimmeridgian,Tithonian
-22648,Brontosaurus,-106.048615,42.017776,1,Kimmeridgian,Tithonian
-28366,Brontosaurus,-105.224701,38.539501,2,Kimmeridgian,Tithonian
-36576,Brontosaurus,-108.728699,39.128502,1,Kimmeridgian,Tithonian
-39368,Brontosaurus,-106.002197,41.893101,1,Kimmeridgian,Tithonian
-39369,Brontosaurus,-106.002197,41.893101,1,Kimmeridgian,Tithonian
-48161,Brontosaurus,-105.212502,38.541,1,Kimmeridgian,Tithonian
-49338,Brontosaurus,-102.824997,36.897499,1,Late Kimmeridgian,Tithonian
-52816,Brontosaurus,-105.908501,42.152802,2,Kimmeridgian,Tithonian
-55487,Brontosaurus,-105.979721,41.893055,1,Kimmeridgian,Tithonian
-57898,Brontosaurus,-105.886398,42.146099,1,Kimmeridgian,Tithonian
-57900,Brontosaurus,-105.908424,42.149494,1,Kimmeridgian,Tithonian
-57902,Brontosaurus,-105.908424,42.149494,1,Kimmeridgian,Tithonian
-58516,Brontosaurus,-109.741203,38.710346,1,Kimmeridgian,Tithonian
-74000,Brontosaurus,-106.07917,41.901386,1,Kimmeridgian,Tithonian
-142335,Brontosaurus,-105.889999,42.1469,1,Kimmeridgian,Tithonian
-142336,Brontosaurus,-105.916199,42.152302,1,Kimmeridgian,Tithonian
-142337,Brontosaurus,-105.908424,42.149494,1,Kimmeridgian,Tithonian
-188398,Brontosaurus,-106.27417,41.730278,1,Kimmeridgian,Tithonian
-25835,Psittacosaurus,120.73333,41.799999,1,Late Barremian,Early Aptian
-28919,Psittacosaurus,85.666664,46.099998,1,Early Cretaceous,
-39680,Psittacosaurus,87.957779,55.903332,1,Aptian,
-45166,Psittacosaurus,97.583336,41.575001,1,Early Albian,Middle Albian
-45167,Psittacosaurus,97.966667,41.466667,1,Barremian,Aptian
-46881,Psittacosaurus,106.083336,41.166668,1,Aptian,
-46905,Psittacosaurus,109.976997,39.1203,1,Valanginian,Albian
-46906,Psittacosaurus,109.976997,39.033401,1,Valanginian,Albian
-46907,Psittacosaurus,108.3395,39.883999,1,Valanginian,Albian
-46929,Psittacosaurus,108.735001,39.704899,1,Valanginian,Albian
-46931,Psittacosaurus,108.083336,38.916668,1,Valanginian,Early Hauterivian
-46934,Psittacosaurus,108.410004,39.360001,2,Valanginian,Albian
-48930,Psittacosaurus,102.066704,41.416698,1,Aptian,Albian
-48931,Psittacosaurus,111.235275,44.275833,1,Early Cretaceous,
-48936,Psittacosaurus,102.733299,44.241501,1,Early Cretaceous,
-48937,Psittacosaurus,102.733299,44.241501,2,Early Cretaceous,
-48939,Psittacosaurus,101.866699,44.748798,2,Early Cretaceous,
-49343,Psittacosaurus,106.98333,41.5,3,Aptian,
-49797,Psittacosaurus,110.083336,41.016666,2,Early Cretaceous,
-50467,Psittacosaurus,120.8722,41.601398,1,Late Barremian,Early Aptian
-50469,Psittacosaurus,120.8722,41.601398,1,Late Barremian,Early Aptian
-50470,Psittacosaurus,120.8722,41.601398,1,Late Barremian,Early Aptian
-52007,Psittacosaurus,108.398613,45.845833,1,Middle Albian,Late Albian
-52127,Psittacosaurus,101.733887,45.395,1,Aptian,
-52158,Psittacosaurus,86.316666,46.133331,1,Early Cretaceous,
-52458,Psittacosaurus,120.033302,41.25,1,Aptian,
-52459,Psittacosaurus,120.033302,41.25,1,Aptian,
-52460,Psittacosaurus,120.033302,41.25,1,Aptian,
-52461,Psittacosaurus,120.033302,41.25,1,Aptian,
-52808,Psittacosaurus,87.999168,55.87611,2,Barremian,Aptian
-52888,Psittacosaurus,120.8722,41.601398,1,Late Barremian,Early Aptian
-53148,Psittacosaurus,91.813614,56.527222,1,Barremian,Aptian
-53493,Psittacosaurus,120.913269,41.603352,1,Early Aptian,
-55238,Psittacosaurus,101.621109,45.297222,1,Valanginian,Barremian
-55328,Psittacosaurus,108.446671,45.830276,1,Middle Albian,Late Albian
-55473,Psittacosaurus,119.666702,37.0667,1,Aptian,
-55475,Psittacosaurus,120.7136,36.9758,1,Aptian,
-58196,Psittacosaurus,106.274719,51.195557,1,Late Barremian,Aptian
-59358,Psittacosaurus,-102.481392,45.375832,1,Early Cretaceous,
-60365,Psittacosaurus,85.666702,46.099998,1,Aptian,Early Albian
-62323,Psittacosaurus,106.028053,38.963333,1,Late Cretaceous,
-70140,Psittacosaurus,102.733299,44.241501,1,Early Cretaceous,
-73376,Psittacosaurus,120.979401,41.601391,1,Early Aptian,
-73438,Psittacosaurus,120.764221,41.783817,1,Late Barremian,Early Aptian
-75472,Psittacosaurus,121.2481,41.533611,1,Early Aptian,
-75511,Psittacosaurus,120.95137,41.584137,1,Early Aptian,
-77191,Psittacosaurus,102.416664,42.450001,1,Aptian,Albian
-79703,Psittacosaurus,102.733299,44.241501,1,Early Cretaceous,
-83249,Psittacosaurus,120.95137,41.584137,1,Early Aptian,
-85296,Psittacosaurus,107.262779,38.927502,1,Early Cretaceous,
-88097,Psittacosaurus,101.733887,45.395,1,Aptian,
-93886,Psittacosaurus,102.933296,16.383329,1,Aptian,Albian
-97753,Psittacosaurus,104.065002,40.994999,1,Aptian,
-164560,Psittacosaurus,108.446671,45.849998,1,Middle Albian,Late Albian
-167303,Psittacosaurus,88.318611,55.876667,1,Barremian,Aptian
-167304,Psittacosaurus,88.093056,55.973057,1,Barremian,Aptian
-189413,Psittacosaurus,109.922005,44.461601,1,Late Aptian,Albian
+collection_no,Genus,lng,lat,n_occs,early_interval
+13352,Brontosaurus,-105.916199,42.152302,1,Kimmeridgian
+22648,Brontosaurus,-106.048615,42.017776,1,Kimmeridgian
+28366,Brontosaurus,-105.224701,38.539501,2,Kimmeridgian
+36576,Brontosaurus,-108.728699,39.128502,1,Kimmeridgian
+39368,Brontosaurus,-106.002197,41.893101,1,Kimmeridgian
+39369,Brontosaurus,-106.002197,41.893101,1,Kimmeridgian
+48161,Brontosaurus,-105.212502,38.541,1,Kimmeridgian
+49338,Brontosaurus,-102.824997,36.897499,1,Late Kimmeridgian
+52816,Brontosaurus,-105.908501,42.152802,2,Kimmeridgian
+55487,Brontosaurus,-105.979721,41.893055,1,Kimmeridgian
+57898,Brontosaurus,-105.886398,42.146099,1,Kimmeridgian
+57900,Brontosaurus,-105.908424,42.149494,1,Kimmeridgian
+57902,Brontosaurus,-105.908424,42.149494,1,Kimmeridgian
+58516,Brontosaurus,-109.741203,38.710346,1,Kimmeridgian
+74000,Brontosaurus,-106.07917,41.901386,1,Kimmeridgian
+142335,Brontosaurus,-105.889999,42.1469,1,Kimmeridgian
+142336,Brontosaurus,-105.916199,42.152302,1,Kimmeridgian
+142337,Brontosaurus,-105.908424,42.149494,1,Kimmeridgian
+188398,Brontosaurus,-106.27417,41.730278,1,Kimmeridgian
+25835,Psittacosaurus,120.73333,41.799999,1,Late Barremian
+28919,Psittacosaurus,85.666664,46.099998,1,Early Cretaceous
+39680,Psittacosaurus,87.957779,55.903332,1,Aptian
+45166,Psittacosaurus,97.583336,41.575001,1,Early Albian
+45167,Psittacosaurus,97.966667,41.466667,1,Barremian
+46881,Psittacosaurus,106.083336,41.166668,1,Aptian
+46905,Psittacosaurus,109.976997,39.1203,1,Valanginian
+46906,Psittacosaurus,109.976997,39.033401,1,Valanginian
+46907,Psittacosaurus,108.3395,39.883999,1,Valanginian
+46929,Psittacosaurus,108.735001,39.704899,1,Valanginian
+46931,Psittacosaurus,108.083336,38.916668,1,Valanginian
+46934,Psittacosaurus,108.410004,39.360001,2,Valanginian
+48930,Psittacosaurus,102.066704,41.416698,1,Aptian
+48931,Psittacosaurus,111.235275,44.275833,1,Early Cretaceous
+48936,Psittacosaurus,102.733299,44.241501,1,Early Cretaceous
+48937,Psittacosaurus,102.733299,44.241501,2,Early Cretaceous
+48939,Psittacosaurus,101.866699,44.748798,2,Early Cretaceous
+49343,Psittacosaurus,106.98333,41.5,3,Aptian
+49797,Psittacosaurus,110.083336,41.016666,2,Early Cretaceous
+50467,Psittacosaurus,120.8722,41.601398,1,Late Barremian
+50469,Psittacosaurus,120.8722,41.601398,1,Late Barremian
+50470,Psittacosaurus,120.8722,41.601398,1,Late Barremian
+52007,Psittacosaurus,108.398613,45.845833,1,Middle Albian
+52127,Psittacosaurus,101.733887,45.395,1,Aptian
+52158,Psittacosaurus,86.316666,46.133331,1,Early Cretaceous
+52458,Psittacosaurus,120.033302,41.25,1,Aptian
+52459,Psittacosaurus,120.033302,41.25,1,Aptian
+52460,Psittacosaurus,120.033302,41.25,1,Aptian
+52461,Psittacosaurus,120.033302,41.25,1,Aptian
+52808,Psittacosaurus,87.999168,55.87611,2,Barremian
+52888,Psittacosaurus,120.8722,41.601398,1,Late Barremian
+53148,Psittacosaurus,91.813614,56.527222,1,Barremian
+53493,Psittacosaurus,120.913269,41.603352,1,Early Aptian
+55238,Psittacosaurus,101.621109,45.297222,1,Valanginian
+55328,Psittacosaurus,108.446671,45.830276,1,Middle Albian
+55473,Psittacosaurus,119.666702,37.0667,1,Aptian
+55475,Psittacosaurus,120.7136,36.9758,1,Aptian
+58196,Psittacosaurus,106.274719,51.195557,1,Late Barremian
+59358,Psittacosaurus,-102.481392,45.375832,1,Early Cretaceous
+60365,Psittacosaurus,85.666702,46.099998,1,Aptian
+62323,Psittacosaurus,106.028053,38.963333,1,Late Cretaceous
+70140,Psittacosaurus,102.733299,44.241501,1,Early Cretaceous
+73376,Psittacosaurus,120.979401,41.601391,1,Early Aptian
+73438,Psittacosaurus,120.764221,41.783817,1,Late Barremian
+75472,Psittacosaurus,121.2481,41.533611,1,Early Aptian
+75511,Psittacosaurus,120.95137,41.584137,1,Early Aptian
+77191,Psittacosaurus,102.416664,42.450001,1,Aptian
+79703,Psittacosaurus,102.733299,44.241501,1,Early Cretaceous
+83249,Psittacosaurus,120.95137,41.584137,1,Early Aptian
+85296,Psittacosaurus,107.262779,38.927502,1,Early Cretaceous
+88097,Psittacosaurus,101.733887,45.395,1,Aptian
+93886,Psittacosaurus,102.933296,16.383329,1,Aptian
+97753,Psittacosaurus,104.065002,40.994999,1,Aptian
+164560,Psittacosaurus,108.446671,45.849998,1,Middle Albian
+167303,Psittacosaurus,88.318611,55.876667,1,Barremian
+167304,Psittacosaurus,88.093056,55.973057,1,Barremian
+189413,Psittacosaurus,109.922005,44.461601,1,Late Aptian
+11917,Tyrannosaurus,-113.0289,51.906399,1,Maastrichtian
+11918,Tyrannosaurus,-113.23333,51.933334,1,Maastrichtian
+14526,Tyrannosaurus,-108.853798,44.935799,1,Lancian
+14537,Tyrannosaurus,-103.099998,45.5,1,Lancian
+14538,Tyrannosaurus,-104.533302,43.166698,1,Lancian
+14585,Tyrannosaurus,-104.637001,43.116329,1,Late Maastrichtian
+14599,Tyrannosaurus,-111,39,1,Lancian
+14610,Tyrannosaurus,-103.300003,46.099998,1,Lancian
+14640,Tyrannosaurus,-104.491669,40.386391,1,Lancian
+14674,Tyrannosaurus,-106.099998,47.799999,1,Late Maastrichtian
+22654,Tyrannosaurus,-111.525871,50.728848,1,Late Campanian
+22657,Tyrannosaurus,-111.524582,50.727234,1,Late Campanian
+26760,Tyrannosaurus,-104.48333,43.049999,1,Late Maastrichtian
+38078,Tyrannosaurus,44.0592,48.625599,1,Maastrichtian
+38544,Tyrannosaurus,-107.083,47.536201,2,Maastrichtian
+45098,Tyrannosaurus,-103.9617,45.948799,1,Maastrichtian
+45099,Tyrannosaurus,-103.9617,45.948799,1,Maastrichtian
+45102,Tyrannosaurus,-103.753899,45.977699,1,Maastrichtian
+45109,Tyrannosaurus,-103.766899,46.026402,1,Maastrichtian
+45111,Tyrannosaurus,-103.766899,46.026402,1,Maastrichtian
+45112,Tyrannosaurus,-103.766899,46.026402,1,Maastrichtian
+45114,Tyrannosaurus,-103.766899,46.026402,1,Maastrichtian
+45118,Tyrannosaurus,-103.766899,46.026402,1,Maastrichtian
+45126,Tyrannosaurus,-103.795403,46.136902,1,Maastrichtian
+45128,Tyrannosaurus,-103.939697,46.406399,1,Maastrichtian
+45136,Tyrannosaurus,-103.964401,46.381901,1,Maastrichtian
+45138,Tyrannosaurus,-103.0233,46.449799,1,Maastrichtian
+45141,Tyrannosaurus,-104.0233,46.464298,1,Maastrichtian
+45144,Tyrannosaurus,-103.897903,46.334,1,Maastrichtian
+45145,Tyrannosaurus,-103.897903,46.334,1,Maastrichtian
+45146,Tyrannosaurus,-103.897903,46.334,1,Maastrichtian
+45299,Tyrannosaurus,-104.002403,46.464298,1,Maastrichtian
+45312,Tyrannosaurus,-104.002403,46.464298,1,Maastrichtian
+45381,Tyrannosaurus,-103.897903,46.3629,1,Maastrichtian
+45388,Tyrannosaurus,-103.946098,45.93903,1,Maastrichtian
+45389,Tyrannosaurus,-103.946098,45.93903,1,Maastrichtian
+45390,Tyrannosaurus,-103.946098,45.93903,1,Maastrichtian
+45878,Tyrannosaurus,-104.411598,43.441799,1,Maastrichtian
+47034,Tyrannosaurus,-101.626297,45.530899,1,Maastrichtian
+48193,Tyrannosaurus,-103.624443,45.65139,1,Lancian
+48847,Tyrannosaurus,-106.455559,47.96389,1,Maastrichtian
+48848,Tyrannosaurus,-106.455559,47.96389,1,Maastrichtian
+49005,Tyrannosaurus,-105.839996,48.286839,1,Maastrichtian
+49523,Tyrannosaurus,-105.203766,39.751331,2,Maastrichtian
+49535,Tyrannosaurus,-105.110275,39.8675,1,Maastrichtian
+49538,Tyrannosaurus,-105.016113,39.613335,1,Maastrichtian
+49539,Tyrannosaurus,-105.036667,39.836666,1,Maastrichtian
+49547,Tyrannosaurus,-105.110275,39.8675,1,Maastrichtian
+52871,Tyrannosaurus,-104.072433,43.128304,1,Maastrichtian
+54105,Tyrannosaurus,-108.816666,49.516666,1,Late Maastrichtian
+55287,Tyrannosaurus,-107.149719,33.242222,1,Lancian
+55353,Tyrannosaurus,-107.083298,47.5667,1,Maastrichtian
+57166,Tyrannosaurus,-104.650002,43.266701,1,Maastrichtian
+60172,Tyrannosaurus,-104.697777,43.36861,1,Lancian
+60766,Tyrannosaurus,-107.083,47.536201,2,Maastrichtian
+61888,Tyrannosaurus,-105.239166,42.648609,1,Maastrichtian
+62533,Tyrannosaurus,-108.016945,36.324722,1,Late Campanian
+64144,Tyrannosaurus,89.85601,42.821259,1,Campanian
+69210,Tyrannosaurus,-103.159576,29.438757,1,Maastrichtian
+69624,Tyrannosaurus,-109.651108,47.398056,1,Late Campanian
+74175,Tyrannosaurus,-103.451668,45.062778,1,Maastrichtian
+75284,Tyrannosaurus,-106.890236,41.934753,1,Lancian
+75286,Tyrannosaurus,-107,41.799999,1,Lancian
+75432,Tyrannosaurus,-106.876312,41.939877,1,Lancian
+75446,Tyrannosaurus,-106.88224,41.935326,1,Lancian
+88990,Tyrannosaurus,-104.891388,45.730145,1,Late Maastrichtian
+137722,Tyrannosaurus,-103.50222,46.413055,1,Lancian
+137728,Tyrannosaurus,-103.50222,46.413055,1,Lancian
+142325,Tyrannosaurus,-104.494812,43.422287,1,Maastrichtian
+142753,Tyrannosaurus,-105.240425,45.349419,1,Maastrichtian
+152248,Tyrannosaurus,-110.602501,46.885277,1,Maastrichtian
+155214,Tyrannosaurus,-109,31,1,Maastrichtian
+157187,Tyrannosaurus,-106.255913,47.732971,1,Late Maastrichtian
+157188,Tyrannosaurus,-114.106903,49.607498,1,Late Maastrichtian
+157189,Tyrannosaurus,-101.96788,45.053665,1,Late Maastrichtian
+162855,Tyrannosaurus,-107,47.599998,1,Late Maastrichtian
+183109,Tyrannosaurus,-105.080002,45.66,1,Maastrichtian
+189003,Tyrannosaurus,-104.549721,45.889168,1,Late Maastrichtian
+192251,Tyrannosaurus,-103.488052,45.644169,1,Lancian
+11582,Velociraptor,99.599998,43.299999,1,Campanian
+22657,Velociraptor,-111.524582,50.727234,1,Late Campanian
+22685,Velociraptor,103.333336,44.25,1,Late Campanian
+37184,Velociraptor,100.901947,43.664444,2,Campanian
+46152,Velociraptor,104,44,1,Late Campanian
+50729,Velociraptor,106.98278,41.500557,1,Campanian
+51033,Velociraptor,103.26667,44.216667,1,Late Campanian
+53132,Velociraptor,70.701363,40.692711,1,Coniacian
+55256,Velociraptor,103.30278,44.228333,1,Late Campanian
+62927,Velociraptor,103.56472,44.127499,1,Campanian
+62928,Velociraptor,104,44,1,Campanian
+65327,Velociraptor,107.843613,43.663334,1,Campanian
+71840,Velociraptor,112.420006,40.040001,1,Late Cretaceous
+83719,Velociraptor,106.723892,41.788055,1,Campanian
+127668,Velociraptor,103.72139,44.145279,1,Late Campanian
+127678,Velociraptor,102.909164,44.094166,1,Campanian
+168986,Velociraptor,103.288887,44.232777,1,Campanian
